@@ -1,1 +1,3 @@
-welcome to git commands
+welcome to git session 
+git pull and push
+
